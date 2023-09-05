@@ -1,40 +1,60 @@
 * {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
 }
 
-#main-heading{
-    font-size: 70px;
-    font-weight: bold;
-    text-align: center;
+#main-heading {
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
 }
 
-#main-list{
-    margin-right: auto;
-    margin-left: 45%;
+#main-list {
+  margin-right: auto;
+  margin-left: 45%;
 }
 
-#main-list a{
-    background-color: black;
-    color: bisque;
-    font-size: 30px;
+#main-list a {
+  background-color: black;
+  color: bisque;
+  font-size: 30px;
 }
 
-
-h1{
-    font-size: 40px;
-    text-decoration: underline;
+h1 {
+  font-size: 40px;
+  text-decoration: underline;
 }
 
-img{
-    width: 800px;
-    height: 450px;
+img {
+  width: 800px;
+  height: 450px;
 }
 
-.description{
-    background-color: yellowgreen;
+.description {
+  background-color: yellowgreen;
+  width: 800px;
 }
 
-h4, a{
-    font-size: small;
+h4,
+a {
+  font-size: small;
+}
+
+.frame {
+  width: 1000px;
+  margin: auto;
+}
+
+.ingredients, .steps{
+  display: block;
+  margin-right: 340px;
+}
+
+hr{
+  margin: 100px 0 10px 0;
+  width: 800px;
+}
+
+h4{
+  margin: 0%;
 }
